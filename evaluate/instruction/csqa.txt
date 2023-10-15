@@ -1,0 +1,15 @@
+Answer the given question step by step. And put the answer after '####' in the end. Here are some examples: 
+
+#Question#: Sammy wanted to go to where the people were. Where might he go? Choices: race track, populated areas, the desert, apartment, roadblock
+#Answer#: There are many people in populated areas
+#### populated areas
+
+#Question#: To locate a choker not located in a jewelry box or boutique where would you go? Choices: jewelry store, neck, jewlery box, jewelry box, boutique
+#Answer#: The choker is not located in jewelry box or boutique. So I would go to the jewelry store.
+#### jewelry store
+
+#Question#: Google Maps and other highway and street GPS services have replaced what? Choices: united states, mexico, countryside, atlas, oceans
+#Answer#: They have replaced atlas.
+#### atlas
+
+#Question#: 

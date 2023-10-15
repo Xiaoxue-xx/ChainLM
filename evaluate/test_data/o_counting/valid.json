@@ -1,0 +1,200 @@
+{"id": 0, "question": "Q: I have a table, a microwave, a fridge, three chairs, and a lamp. How many objects do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 1, "question": "Q: I have a goat, five snails, a rabbit, a cow, and a fish. How many animals do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 2, "question": "Q: I have a raspberry, three apples, a stove, a microwave, a peach, a plum, an orange, a blackberry, a nectarine, an oven, a strawberry, and a banana. How many fruits do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 3, "question": "Q: I have a potato, three heads of broccoli, a cabbage, and two stalks of celery. How many vegetables do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 4, "question": "Q: I have a pig, two ducks, and a dog. How many animals do I have?\nA:", "answer": ["four", "4"]}
+{"id": 5, "question": "Q: I have a snake, a rabbit, two clarinets, a drum, a flute, and an accordion. How many musical instruments do I have?\nA:", "answer": ["five", "5"]}
+{"id": 6, "question": "Q: I have an apple, a peach, a nectarine, a strawberry, five raspberries, a plum, three bananas, an orange, a grape, and a blackberry. How many fruits do I have?\nA:", "answer": ["sixteen", "16"]}
+{"id": 7, "question": "Q: I have two garlics, a lettuce head, a carrot, three onions, four potatoes, two stalks of celery, a yam, a cauliflower, and two heads of broccoli. How many vegetables do I have?\nA:", "answer": ["seventeen", "17"]}
+{"id": 8, "question": "Q: I have a duck, a bear, a rabbit, a dog, and a snake. How many animals do I have?\nA:", "answer": ["five", "5"]}
+{"id": 9, "question": "Q: I have a cabbage, a cauliflower, two potatoes, a lettuce head, four heads of broccoli, a garlic, a carrot, a stalk of celery, and a yam. How many vegetables do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 10, "question": "Q: I have a yam, an onion, a garlic, a cauliflower, three heads of broccoli, a stalk of celery, two lettuce heads, a potato, four carrots, and a cabbage. How many vegetables do I have?\nA:", "answer": ["sixteen", "16"]}
+{"id": 11, "question": "Q: I have three rabbits, a goat, four dogs, and two snails. How many animals do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 12, "question": "Q: I have a cow, a bear, five frogs, a goat, a rabbit, two fish, and a donkey. How many animals do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 13, "question": "Q: I have a chicken, a frog, a nectarine, a peach, a duck, a pig, a rabbit, a snake, a bear, and a cow. How many animals do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 14, "question": "Q: I have two raspberries, a rabbit, a plum, an orange, a grape, a strawberry, a donkey, a nectarine, five blackberries, a peach, and a snail. How many fruits do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 15, "question": "Q: I have a duck, a cat, and a snail. How many animals do I have?\nA:", "answer": ["three", "3"]}
+{"id": 16, "question": "Q: I have a cat, a pig, and a snake. How many animals do I have?\nA:", "answer": ["three", "3"]}
+{"id": 17, "question": "Q: I have three toasters, a table, a chair, two couches, a fridge, a microwave, two beds, a lamp, and a car. How many objects do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 18, "question": "Q: I have a lamp, a toaster, a fridge, a chair, and a bed. How many objects do I have?\nA:", "answer": ["five", "5"]}
+{"id": 19, "question": "Q: I have a garlic, a head of broccoli, two stalks of celery, an onion, a potato, a carrot, a yam, three cauliflowers, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 20, "question": "Q: I have three plums, and a banana. How many fruits do I have?\nA:", "answer": ["four", "4"]}
+{"id": 21, "question": "Q: I have a couch, a microwave, a chair, a fridge, an oven, a toaster, and a lamp. How many objects do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 22, "question": "Q: I have a raspberry, a blackberry, a strawberry, an orange, a grape, and a peach. How many fruits do I have?\nA:", "answer": ["six", "6"]}
+{"id": 23, "question": "Q: I have a toaster, a microwave, a bed, a table, two chairs, and a lamp. How many objects do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 24, "question": "Q: I have a nectarine, five bananas, a grape, a strawberry, a peach, an orange, a blackberry, and a plum. How many fruits do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 25, "question": "Q: I have a strawberry, a plum, a banana, a peach, an apple, a raspberry, a blackberry, and a nectarine. How many fruits do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 26, "question": "Q: I have a banana, three peaches, a grape, two oranges, two raspberries, a nectarine, two strawberries, a plum, an apple, and a blackberry. How many fruits do I have?\nA:", "answer": ["fifteen", "15"]}
+{"id": 27, "question": "Q: I have a garlic, a yam, and a head of broccoli. How many vegetables do I have?\nA:", "answer": ["three", "3"]}
+{"id": 28, "question": "Q: I have three pianos, a trumpet, a violin, an accordion, and a clarinet. How many musical instruments do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 29, "question": "Q: I have a head of broccoli, a yam, a carrot, a cauliflower, an onion, and three lettuce heads. How many vegetables do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 30, "question": "Q: I have a lettuce head, and a carrot. How many vegetables do I have?\nA:", "answer": ["two", "2"]}
+{"id": 31, "question": "Q: I have four fish, two pigs, an apple, a snail, a rabbit, and a cow. How many animals do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 32, "question": "Q: I have two plums, a blackberry, a nectarine, a peach, an apple, a raspberry, a grape, and a strawberry. How many fruits do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 33, "question": "Q: I have a garlic, a potato, two carrots, a stalk of celery, a lettuce head, and a cabbage. How many vegetables do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 34, "question": "Q: I have two drums, a trumpet, a clarinet, three flutes, and a violin. How many musical instruments do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 35, "question": "Q: I have a nectarine, a grape, a peach, and a banana. How many fruits do I have?\nA:", "answer": ["four", "4"]}
+{"id": 36, "question": "Q: I have a chair, two lamps, a car, a fridge, two ovens, and three beds. How many objects do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 37, "question": "Q: I have a stalk of celery, a yam, a carrot, two potatoes, and a garlic. How many vegetables do I have?\nA:", "answer": ["six", "6"]}
+{"id": 38, "question": "Q: I have a carrot, a car, a potato, a cauliflower, a head of broccoli, and an onion. How many vegetables do I have?\nA:", "answer": ["five", "5"]}
+{"id": 39, "question": "Q: I have a grape, two raspberries, a strawberry, a nectarine, a banana, two plums, five peaches, and an orange. How many fruits do I have?\nA:", "answer": ["fourteen", "14"]}
+{"id": 40, "question": "Q: I have two chickens, a pig, two peaches, two dogs, a fish, and a cow. How many animals do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 41, "question": "Q: I have a fridge, a table, an oven, a lamp, and a microwave. How many objects do I have?\nA:", "answer": ["five", "5"]}
+{"id": 42, "question": "Q: I have a donkey, a snake, a dog, and a fish. How many animals do I have?\nA:", "answer": ["four", "4"]}
+{"id": 43, "question": "Q: I have a violin, a clarinet, a chicken, a bear, and two frogs. How many animals do I have?\nA:", "answer": ["four", "4"]}
+{"id": 44, "question": "Q: I have a cauliflower, a garlic, a carrot, three stalks of celery, a yam, three heads of broccoli, two onions, a lettuce head, a cabbage, and four potatoes. How many vegetables do I have?\nA:", "answer": ["eighteen", "18"]}
+{"id": 45, "question": "Q: I have three onions, two potatoes, and a cabbage. How many vegetables do I have?\nA:", "answer": ["six", "6"]}
+{"id": 46, "question": "Q: I have two fish, a snake, an onion, a garlic, a goat, and a cabbage. How many animals do I have?\nA:", "answer": ["four", "4"]}
+{"id": 47, "question": "Q: I have a cabbage, a dog, a stalk of celery, a garlic, a potato, four onions, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 48, "question": "Q: I have a toaster, a chair, three tables, a bed, three microwaves, a car, a lamp, and two ovens. How many objects do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 49, "question": "Q: I have a stalk of celery, an onion, a cabbage, and a yam. How many vegetables do I have?\nA:", "answer": ["four", "4"]}
+{"id": 50, "question": "Q: I have an orange, and a peach. How many fruits do I have?\nA:", "answer": ["two", "2"]}
+{"id": 51, "question": "Q: I have two raspberries, a banana, and a peach. How many fruits do I have?\nA:", "answer": ["four", "4"]}
+{"id": 52, "question": "Q: I have a frog, and a dog. How many animals do I have?\nA:", "answer": ["two", "2"]}
+{"id": 53, "question": "Q: I have a couch, a stove, a chair, a car, a lamp, a fridge, a bed, and a toaster. How many objects do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 54, "question": "Q: I have an accordion, a clarinet, a violin, four flutes, two pianos, four trumpets, a drum, and a trombone. How many musical instruments do I have?\nA:", "answer": ["fifteen", "15"]}
+{"id": 55, "question": "Q: I have a mouse, a bear, a cow, a donkey, a chicken, and a snail. How many animals do I have?\nA:", "answer": ["six", "6"]}
+{"id": 56, "question": "Q: I have a lamp, and a car. How many objects do I have?\nA:", "answer": ["two", "2"]}
+{"id": 57, "question": "Q: I have a banana, two plums, a blackberry, a grape, an apple, a strawberry, and a nectarine. How many fruits do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 58, "question": "Q: I have a chair, an oven, a car, a toaster, a couch, four tables, a bed, a microwave, and a fridge. How many objects do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 59, "question": "Q: I have a pig, a snake, three donkeys, a mouse, a snail, and a dog. How many animals do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 60, "question": "Q: I have an oven, a fridge, a chair, and a car. How many objects do I have?\nA:", "answer": ["four", "4"]}
+{"id": 61, "question": "Q: I have a carrot, a lettuce head, three stalks of celery, and a cauliflower. How many vegetables do I have?\nA:", "answer": ["six", "6"]}
+{"id": 62, "question": "Q: I have a trumpet, three accordions, a violin, a drum, a clarinet, a flute, and a trombone. How many musical instruments do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 63, "question": "Q: I have a chair, a lamp, a couch, a toaster, an oven, four stoves, a microwave, and a fridge. How many objects do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 64, "question": "Q: I have a raspberry, a car, a strawberry, an apple, a microwave, an orange, three peaches, five bananas, and a table. How many fruits do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 65, "question": "Q: I have two beds, a car, a couch, a stove, an oven, a microwave, a toaster, a lamp, and a table. How many objects do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 66, "question": "Q: I have three peaches, a nectarine, an orange, four strawberries, a banana, a plum, a grape, a raspberry, and a blackberry. How many fruits do I have?\nA:", "answer": ["fourteen", "14"]}
+{"id": 67, "question": "Q: I have a trumpet, a piano, two flutes, and a drum. How many musical instruments do I have?\nA:", "answer": ["five", "5"]}
+{"id": 68, "question": "Q: I have a violin, a piano, an accordion, two trombones, a drum, a clarinet, and a flute. How many musical instruments do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 69, "question": "Q: I have a car, a lamp, a chair, and a stove. How many objects do I have?\nA:", "answer": ["four", "4"]}
+{"id": 70, "question": "Q: I have a carrot, a garlic, a lettuce head, a yam, a cabbage, a cauliflower, three potatoes, a stalk of celery, an onion, and a head of broccoli. How many vegetables do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 71, "question": "Q: I have three chairs, and a car. How many objects do I have?\nA:", "answer": ["four", "4"]}
+{"id": 72, "question": "Q: I have a clarinet, a cat, four trombones, a drum, a violin, two pianos, two flutes, two goats, an accordion, and two trumpets. How many musical instruments do I have?\nA:", "answer": ["fourteen", "14"]}
+{"id": 73, "question": "Q: I have a bear, a mouse, two donkeys, a rabbit, a fridge, three fish, and four snakes. How many animals do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 74, "question": "Q: I have a strawberry, a peach, a nectarine, a grape, and a raspberry. How many fruits do I have?\nA:", "answer": ["five", "5"]}
+{"id": 75, "question": "Q: I have a violin, a piano, a drum, a flute, a trombone, an accordion, two trumpets, and a clarinet. How many musical instruments do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 76, "question": "Q: I have a frog, a violin, three clarinets, and a trumpet. How many musical instruments do I have?\nA:", "answer": ["five", "5"]}
+{"id": 77, "question": "Q: I have a fish, a dog, a duck, a rabbit, and two goats. How many animals do I have?\nA:", "answer": ["six", "6"]}
+{"id": 78, "question": "Q: I have an oven, a chair, two beds, a stove, and a car. How many objects do I have?\nA:", "answer": ["six", "6"]}
+{"id": 79, "question": "Q: I have an apple, a strawberry, and five nectarines. How many fruits do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 80, "question": "Q: I have a cauliflower, a mouse, an onion, two lettuce heads, a garlic, a yam, a fish, four potatoes, a carrot, a head of broccoli, and a stalk of celery. How many vegetables do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 81, "question": "Q: I have an accordion, and a clarinet. How many musical instruments do I have?\nA:", "answer": ["two", "2"]}
+{"id": 82, "question": "Q: I have two cows, four snakes, three cats, a bear, a fish, a frog, and a pig. How many animals do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 83, "question": "Q: I have an accordion, a clarinet, and four violins. How many musical instruments do I have?\nA:", "answer": ["six", "6"]}
+{"id": 84, "question": "Q: I have two plums, and an orange. How many fruits do I have?\nA:", "answer": ["three", "3"]}
+{"id": 85, "question": "Q: I have a potato, an onion, a garlic, three lettuce heads, four carrots, a yam, a cabbage, a head of broccoli, and three cauliflowers. How many vegetables do I have?\nA:", "answer": ["sixteen", "16"]}
+{"id": 86, "question": "Q: I have a microwave, a couch, two beds, an oven, and a stove. How many objects do I have?\nA:", "answer": ["six", "6"]}
+{"id": 87, "question": "Q: I have a garlic, an onion, a cauliflower, and a stalk of celery. How many vegetables do I have?\nA:", "answer": ["four", "4"]}
+{"id": 88, "question": "Q: I have a goat, two frogs, a snail, three cats, a cow, a dog, a duck, a rabbit, a cauliflower, and a bear. How many animals do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 89, "question": "Q: I have a chair, a lamp, an oven, a stove, a bed, a couch, three cars, a fridge, a microwave, and a toaster. How many objects do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 90, "question": "Q: I have a flute, a piano, two trombones, a trumpet, a drum, and a violin. How many musical instruments do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 91, "question": "Q: I have a stove, a microwave, two lamps, a fridge, a bed, and a chair. How many objects do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 92, "question": "Q: I have a clarinet, a drum, an accordion, a violin, four pianos, a flute, and two trumpets. How many musical instruments do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 93, "question": "Q: I have a yam, a head of broccoli, a cauliflower, a cabbage, and three garlics. How many vegetables do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 94, "question": "Q: I have a snail, a rabbit, a bear, a frog, and a donkey. How many animals do I have?\nA:", "answer": ["five", "5"]}
+{"id": 95, "question": "Q: I have a cauliflower, and a cabbage. How many vegetables do I have?\nA:", "answer": ["two", "2"]}
+{"id": 96, "question": "Q: I have two grapes, an orange, a plum, four nectarines, four raspberries, and an apple. How many fruits do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 97, "question": "Q: I have a flute, a piano, an accordion, and a trumpet. How many musical instruments do I have?\nA:", "answer": ["four", "4"]}
+{"id": 98, "question": "Q: I have a rabbit, three cows, a donkey, three snakes, a duck, a dog, a pig, a chicken, a mouse, and a bear. How many animals do I have?\nA:", "answer": ["fourteen", "14"]}
+{"id": 99, "question": "Q: I have a fridge, three beds, a table, a toaster, a car, and a microwave. How many objects do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 100, "question": "Q: I have a dog, a microwave, a mouse, a couch, a duck, a chair, a pig, and a bear. How many animals do I have?\nA:", "answer": ["five", "5"]}
+{"id": 101, "question": "Q: I have three plums, an apple, a raspberry, a peach, two bananas, a strawberry, a blackberry, and an orange. How many fruits do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 102, "question": "Q: I have a potato, a cabbage, a stalk of celery, an onion, a cauliflower, a yam, a carrot, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 103, "question": "Q: I have a couch, a lamp, a microwave, a toaster, a fridge, and a table. How many objects do I have?\nA:", "answer": ["six", "6"]}
+{"id": 104, "question": "Q: I have a grape, a cow, a cat, a banana, a plum, a strawberry, a nectarine, a peach, an apple, and an orange. How many fruits do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 105, "question": "Q: I have a pig, and a donkey. How many animals do I have?\nA:", "answer": ["two", "2"]}
+{"id": 106, "question": "Q: I have a donkey, a cat, a trombone, a dog, a goat, a flute, a chicken, and a snail. How many animals do I have?\nA:", "answer": ["six", "6"]}
+{"id": 107, "question": "Q: I have a lamp, two cars, an oven, a couch, and a fridge. How many objects do I have?\nA:", "answer": ["six", "6"]}
+{"id": 108, "question": "Q: I have two fridges, a lamp, a couch, a table, an oven, a stove, two beds, and two toasters. How many objects do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 109, "question": "Q: I have a violin, a fridge, a piano, a drum, three couches, an oven, a flute, and a trombone. How many musical instruments do I have?\nA:", "answer": ["five", "5"]}
+{"id": 110, "question": "Q: I have an onion, a stalk of celery, a yam, three garlics, a carrot, five cabbages, and a head of broccoli. How many vegetables do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 111, "question": "Q: I have a toaster, a lamp, an oven, two chairs, a microwave, a table, a fridge, a couch, two beds, and a car. How many objects do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 112, "question": "Q: I have three beds, a car, a microwave, a fridge, a chair, two lamps, a toaster, an oven, a stove, and five couches. How many objects do I have?\nA:", "answer": ["seventeen", "17"]}
+{"id": 113, "question": "Q: I have a drum, a piano, a clarinet, a violin, an accordion, a trombone, and two flutes. How many musical instruments do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 114, "question": "Q: I have a microwave, a car, a fridge, a chair, and a lamp. How many objects do I have?\nA:", "answer": ["five", "5"]}
+{"id": 115, "question": "Q: I have two garlics, a yam, a lettuce head, a head of broccoli, a potato, a cabbage, and a carrot. How many vegetables do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 116, "question": "Q: I have an apple, a raspberry, a peach, a grape, four oranges, a strawberry, a potato, a banana, and a nectarine. How many fruits do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 117, "question": "Q: I have a potato, a lettuce head, a head of broccoli, an onion, a carrot, a garlic, three cauliflowers, and a yam. How many vegetables do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 118, "question": "Q: I have a garlic, four cabbages, a yam, a carrot, two cauliflowers, an onion, a head of broccoli, a potato, and a stalk of celery. How many vegetables do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 119, "question": "Q: I have a cow, and a dog. How many animals do I have?\nA:", "answer": ["two", "2"]}
+{"id": 120, "question": "Q: I have two dogs, three rabbits, two bears, a cow, a cat, a duck, a pig, and a frog. How many animals do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 121, "question": "Q: I have a strawberry, a raspberry, a grape, five plums, and an apple. How many fruits do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 122, "question": "Q: I have a snake, a trombone, a piano, a flute, a rabbit, a clarinet, and a violin. How many musical instruments do I have?\nA:", "answer": ["five", "5"]}
+{"id": 123, "question": "Q: I have a chicken, a cow, and two goats. How many animals do I have?\nA:", "answer": ["four", "4"]}
+{"id": 124, "question": "Q: I have a frog, a flute, a rabbit, an accordion, a violin, and two bears. How many musical instruments do I have?\nA:", "answer": ["three", "3"]}
+{"id": 125, "question": "Q: I have a piano, a potato, a yam, a clarinet, a drum, four violins, a garlic, a flute, and a trombone. How many musical instruments do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 126, "question": "Q: I have a violin, two trombones, a drum, two clarinets, an accordion, three flutes, and a trumpet. How many musical instruments do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 127, "question": "Q: I have a bed, a microwave, a stove, two tables, and a car. How many objects do I have?\nA:", "answer": ["six", "6"]}
+{"id": 128, "question": "Q: I have a chicken, a fish, two mice, a snail, a cat, two goats, a rabbit, a peach, a snake, a strawberry, and two bears. How many animals do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 129, "question": "Q: I have a stove, a lamp, a car, a table, and a microwave. How many objects do I have?\nA:", "answer": ["five", "5"]}
+{"id": 130, "question": "Q: I have a head of broccoli, a drum, and a cauliflower. How many vegetables do I have?\nA:", "answer": ["two", "2"]}
+{"id": 131, "question": "Q: I have a flute, a clarinet, a piano, a trombone, an accordion, and two trumpets. How many musical instruments do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 132, "question": "Q: I have a couch, a bed, a table, a lamp, a fridge, a stove, an oven, a microwave, and a car. How many objects do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 133, "question": "Q: I have three lettuce heads, a cabbage, a cauliflower, a fish, a stalk of celery, three onions, a head of broccoli, three potatoes, a cat, and two yams. How many vegetables do I have?\nA:", "answer": ["fifteen", "15"]}
+{"id": 134, "question": "Q: I have two violins, a flute, two trumpets, a piano, three trombones, two clarinets, five drums, and an accordion. How many musical instruments do I have?\nA:", "answer": ["seventeen", "17"]}
+{"id": 135, "question": "Q: I have four blackberries, and a raspberry. How many fruits do I have?\nA:", "answer": ["five", "5"]}
+{"id": 136, "question": "Q: I have two pianos, a trombone, two accordions, three drums, a trumpet, a clarinet, a bear, and a flute. How many musical instruments do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 137, "question": "Q: I have a microwave, a stove, a lamp, an oven, a car, a fridge, a couch, and a chair. How many objects do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 138, "question": "Q: I have a donkey, a snail, a cow, a snake, a duck, a fish, a frog, a rabbit, and a cat. How many animals do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 139, "question": "Q: I have three grapes, an apple, a strawberry, and an orange. How many fruits do I have?\nA:", "answer": ["six", "6"]}
+{"id": 140, "question": "Q: I have a strawberry, an orange, a peach, a raspberry, a blackberry, a nectarine, a grape, an apple, and two plums. How many fruits do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 141, "question": "Q: I have a potato, an onion, a carrot, a yam, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["five", "5"]}
+{"id": 142, "question": "Q: I have a microwave, a fridge, a car, a stove, a lamp, and an oven. How many objects do I have?\nA:", "answer": ["six", "6"]}
+{"id": 143, "question": "Q: I have two drums, a flute, two chickens, a goat, a piano, a snake, a trombone, a violin, five clarinets, an accordion, and a trumpet. How many musical instruments do I have?\nA:", "answer": ["thirteen", "13"]}
+{"id": 144, "question": "Q: I have a flute, and a violin. How many musical instruments do I have?\nA:", "answer": ["two", "2"]}
+{"id": 145, "question": "Q: I have a duck, a chicken, a rabbit, a donkey, a frog, a dog, a fish, a bear, a goat, and a snail. How many animals do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 146, "question": "Q: I have a raspberry, two apples, a peach, a nectarine, and three bananas. How many fruits do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 147, "question": "Q: I have a strawberry, a nectarine, a grape, and an orange. How many fruits do I have?\nA:", "answer": ["four", "4"]}
+{"id": 148, "question": "Q: I have a clarinet, a drum, a piano, a violin, a cauliflower, a lettuce head, a trumpet, an accordion, a flute, and two trombones. How many musical instruments do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 149, "question": "Q: I have two drums, two flutes, and a trumpet. How many musical instruments do I have?\nA:", "answer": ["five", "5"]}
+{"id": 150, "question": "Q: I have a fridge, five toasters, a lamp, and a car. How many objects do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 151, "question": "Q: I have three cars, a microwave, three stoves, three couches, four beds, and three chairs. How many objects do I have?\nA:", "answer": ["seventeen", "17"]}
+{"id": 152, "question": "Q: I have a trombone, a drum, a flute, a piano, three accordions, a violin, a trumpet, and a clarinet. How many musical instruments do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 153, "question": "Q: I have a raspberry, a plum, and an orange. How many fruits do I have?\nA:", "answer": ["three", "3"]}
+{"id": 154, "question": "Q: I have a carrot, a cauliflower, a yam, a lettuce head, an onion, three heads of broccoli, and a potato. How many vegetables do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 155, "question": "Q: I have five onions, a garlic, a potato, a yam, and a cauliflower. How many vegetables do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 156, "question": "Q: I have a bed, and a chair. How many objects do I have?\nA:", "answer": ["two", "2"]}
+{"id": 157, "question": "Q: I have two cows, a fish, a snail, a cat, a pig, a goat, and three ducks. How many animals do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 158, "question": "Q: I have two lettuce heads, and a yam. How many vegetables do I have?\nA:", "answer": ["three", "3"]}
+{"id": 159, "question": "Q: I have a rabbit, a mouse, a donkey, a snail, a bear, three goats, and a clarinet. How many animals do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 160, "question": "Q: I have an onion, four yams, a cauliflower, a cabbage, a carrot, and a stalk of celery. How many vegetables do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 161, "question": "Q: I have a garlic, a potato, three lettuce heads, a yam, an onion, a cabbage, and a carrot. How many vegetables do I have?\nA:", "answer": ["nine", "9"]}
+{"id": 162, "question": "Q: I have a grape, a plum, an orange, a raspberry, a blackberry, a strawberry, a peach, and four apples. How many fruits do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 163, "question": "Q: I have a snail, three fish, a mouse, a chicken, two pigs, a frog, a donkey, and a cow. How many animals do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 164, "question": "Q: I have a chicken, and a cow. How many animals do I have?\nA:", "answer": ["two", "2"]}
+{"id": 165, "question": "Q: I have a table, a toaster, and a bed. How many objects do I have?\nA:", "answer": ["three", "3"]}
+{"id": 166, "question": "Q: I have a microwave, an oven, and a lamp. How many objects do I have?\nA:", "answer": ["three", "3"]}
+{"id": 167, "question": "Q: I have three garlics, an onion, and two cauliflowers. How many vegetables do I have?\nA:", "answer": ["six", "6"]}
+{"id": 168, "question": "Q: I have a head of broccoli, two carrots, an accordion, and a violin. How many vegetables do I have?\nA:", "answer": ["three", "3"]}
+{"id": 169, "question": "Q: I have three stoves, and a couch. How many objects do I have?\nA:", "answer": ["four", "4"]}
+{"id": 170, "question": "Q: I have an accordion, a violin, three trumpets, a flute, a trombone, a drum, a piano, and a clarinet. How many musical instruments do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 171, "question": "Q: I have a donkey, four tables, and a chicken. How many animals do I have?\nA:", "answer": ["two", "2"]}
+{"id": 172, "question": "Q: I have a toaster, a couch, a car, a lamp, an oven, a table, a bed, five fridges, and two microwaves. How many objects do I have?\nA:", "answer": ["fourteen", "14"]}
+{"id": 173, "question": "Q: I have a trumpet, a drum, a flute, two pianos, a clarinet, an accordion, three violins, and a trombone. How many musical instruments do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 174, "question": "Q: I have a frog, a peach, a grape, a nectarine, a bear, two mice, and three oranges. How many fruits do I have?\nA:", "answer": ["six", "6"]}
+{"id": 175, "question": "Q: I have an apple, five blackberries, a strawberry, a raspberry, a banana, an orange, and a peach. How many fruits do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 176, "question": "Q: I have an apple, a blackberry, a peach, a raspberry, a banana, a plum, a grape, an orange, a nectarine, and a strawberry. How many fruits do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 177, "question": "Q: I have a bear, two fish, a cat, two rabbits, three ducks, a donkey, and a snake. How many animals do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 178, "question": "Q: I have two ovens, a microwave, a lamp, a fridge, a bed, a car, two tables, a chair, a toaster, and a couch. How many objects do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 179, "question": "Q: I have a head of broccoli, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["two", "2"]}
+{"id": 180, "question": "Q: I have a raspberry, and a blackberry. How many fruits do I have?\nA:", "answer": ["two", "2"]}
+{"id": 181, "question": "Q: I have a chair, and a couch. How many objects do I have?\nA:", "answer": ["two", "2"]}
+{"id": 182, "question": "Q: I have an onion, two heads of broccoli, a lettuce head, a cauliflower, a yam, and a garlic. How many vegetables do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 183, "question": "Q: I have three garlics, three lettuce heads, a head of broccoli, a potato, two cauliflowers, a yam, a cabbage, a stalk of celery, five carrots, and an onion. How many vegetables do I have?\nA:", "answer": ["nineteen", "19"]}
+{"id": 184, "question": "Q: I have an onion, a carrot, a stalk of celery, two yams, a potato, a cauliflower, a head of broccoli, and two garlics. How many vegetables do I have?\nA:", "answer": ["ten", "10"]}
+{"id": 185, "question": "Q: I have a cabbage, a lettuce head, five yams, a cauliflower, and three carrots. How many vegetables do I have?\nA:", "answer": ["eleven", "11"]}
+{"id": 186, "question": "Q: I have a stove, a couch, three chairs, two toasters, an oven, three fridges, a microwave, a bed, and a car. How many objects do I have?\nA:", "answer": ["fourteen", "14"]}
+{"id": 187, "question": "Q: I have a stove, a couch, a fridge, two cars, a lamp, a chair, and an oven. How many objects do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 188, "question": "Q: I have an orange, a grape, a nectarine, a plum, a cow, and three peaches. How many fruits do I have?\nA:", "answer": ["seven", "7"]}
+{"id": 189, "question": "Q: I have a dog, five frogs, a duck, a chair, a fridge, and a cat. How many animals do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 190, "question": "Q: I have a trombone, a flute, and a drum. How many musical instruments do I have?\nA:", "answer": ["three", "3"]}
+{"id": 191, "question": "Q: I have a stalk of celery, three potatoes, two yams, a head of broccoli, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 192, "question": "Q: I have a donkey, three mice, a duck, a goat, a dog, and a cat. How many animals do I have?\nA:", "answer": ["eight", "8"]}
+{"id": 193, "question": "Q: I have two onions, two cabbages, a lettuce head, two heads of broccoli, a stalk of celery, a garlic, a cauliflower, a carrot, and a potato. How many vegetables do I have?\nA:", "answer": ["twelve", "12"]}
+{"id": 194, "question": "Q: I have a cabbage, a cauliflower, a garlic, an onion, and a lettuce head. How many vegetables do I have?\nA:", "answer": ["five", "5"]}
+{"id": 195, "question": "Q: I have a pig, a frog, a rabbit, a mouse, a head of broccoli, a bear, and a duck. How many animals do I have?\nA:", "answer": ["six", "6"]}
+{"id": 196, "question": "Q: I have a yam, and a garlic. How many vegetables do I have?\nA:", "answer": ["two", "2"]}
+{"id": 197, "question": "Q: I have a duck, a pig, a snail, and a donkey. How many animals do I have?\nA:", "answer": ["four", "4"]}
+{"id": 198, "question": "Q: I have a raspberry, a head of broccoli, a peach, a yam, a blackberry, a strawberry, two plums, and a carrot. How many fruits do I have?\nA:", "answer": ["six", "6"]}
+{"id": 199, "question": "Q: I have three bears, a fish, a duck, a goat, a donkey, a cat, a snake, a rabbit, a cow, a potato, and a chicken. How many animals do I have?\nA:", "answer": ["twelve", "12"]}

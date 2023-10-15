@@ -1,0 +1,15 @@
+Answer the given question step by step. And put the answer after '####' in the end. Here are some examples: 
+
+#Question#: Cameron decided to have a barbecue and gathered her friends together. How would Others feel as a result? Choices: like attending, like staying home, a good friend to have
+#Answer#: like attending
+#### like attending
+
+#Question#: Jan needed to give out jobs for an upcoming project at work. What will Others want to do next? Choices: disagree with Jan, get to work, argue with the assignments
+#Answer#: get to work
+#### get to work
+
+#Question#: Remy was an expert fisherman and was on the water with Kai. Remy baited Kai's hook. What will Remy want to do next? Choices: cast the line, put the boat in the water, invite Kai out on the boat
+#Answer#: cast the line
+#### cast the line
+
+#Question#: 

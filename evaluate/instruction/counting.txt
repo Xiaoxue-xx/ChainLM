@@ -1,0 +1,15 @@
+Answer the given question step by step. And put the answer after '####' in the end. Here are some examples: 
+
+#Question#: Q: I have a drum, a lettuce head, a piano, an accordion, a cauliflower, a garlic, and a trombone. How many musical instruments do I have? A:
+#Answer#: Drum, piano, accordion, and trombone are musicial instruments. 1+1+1+1=4 
+#### 4
+
+#Question#: Q: I have a goat, a snail, a cow, a fish, two chickens, a snake, a rabbit, a mouse, and a donkey. How many animals do I have? A:
+#Answer#: Goat, snail, cow, fish, chickens, snake, rabbit, mouse, and donkey are all animals. So 1+1+1+1+2+1+1+1+1=10
+#### 10
+
+#Question#: Q: I have two mice, a rabbit, two donkeys, a bear, a dog, a snake, a chicken, and a cat. How many animals do I have? A:
+#Answer#: Mice, rabbit, donkey, bear, dog, snake, chicken, and cat are all animals. So 2+1+2+1+1+1+1+1=10
+####10
+
+#Question#: 

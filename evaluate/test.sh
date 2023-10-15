@@ -1,0 +1,9 @@
+python test.py --model-path {model-path} --test-file test_data/commonsenceqa/test_new.json --answer-file csqa.json --ins instruction/csqa.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/siqa/test_new.json --answer-file siqa.json --ins instruction/siqa.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/math/elementary_mathematics.json --answer-file elemath.json --ins instruction/0-shot.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/math/test_new.json --answer-file math.json --ins instruction/math.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/scienceqa/test_new.json --answer-file scienceqa.json --ins instruction/0-shot.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/SciQ/test.json --answer-file sciq.json --ins instruction/0-shot.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/penguins_in_a_table/valid.json --answer-file penguins.json --ins instruction/0-shot.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/o_counting/valid.json --answer-file counting.json --ins instruction/counting.txt --device cuda:0
+python test.py --model-path {model-path} --test-file test_data/phrase_relatedness/train.json --answer-file phrase.json --ins instruction/0-shot.txt --device cuda:0
