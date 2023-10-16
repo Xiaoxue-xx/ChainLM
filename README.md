@@ -15,8 +15,11 @@ Following MagicCoT, we generate a large-scale CoT dataset which cotains 44335 sa
 Furthermore, we fine-tune open-source LLMs (i.e.,LlaMa 2-Chat 7B and 13B) with our evolved CoT data, called MagicLM, and compare MagicLM to existing popular LLMs on 9 complex reasoning tasks. 
 Finally, based on our MagicLM model, we propose a CoT reasoning strategy,step-wise debating.
 
-
-<a href="https://github.com/Xiaoxue-xx/MagicCoT" target="_blank"><img src="assets/fig.pdf" alt="MagicCoT" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
+<p align="center">
+  <img src="asset/magiccot.png" alt="MagicCoT framework" width="100%" height="100%">
+  <br>
+  The Overall Framework of MagicCoT
+</p>
 
 ## Data Release
 
@@ -61,7 +64,10 @@ We conduct evaluation on 9 dataset independent of the seed dataset and present t
 cd evaluate
 bash test.sh
 ```
-<a href="https://github.com/Xiaoxue-xx/MagicCoT" target="_blank"><img src="assets/evaluation.jpg" alt="MagicCoT" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
+<p align="center">
+  <img src="asset/evaluation.png" alt="main experimant" width="100%" height="100%">
+  <br>
+</p>
 
 ## CoT Debating
 
