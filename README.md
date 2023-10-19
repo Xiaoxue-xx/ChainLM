@@ -16,7 +16,7 @@ Furthermore, we fine-tune open-source LLMs (i.e.,LlaMa 2-Chat 7B and 13B) with o
 Finally, based on our MagicLM model, we propose a CoT reasoning strategy,step-wise debating.
 
 <p align="center">
-  <img src="asset/magiccot.png" alt="MagicCoT framework" width="90%" height="90%">
+  <img src="asset/Magiccot.png" alt="MagicCoT framework" width="90%" height="90%">
   <br>
   The Overall Framework of MagicCoT
 </p>
