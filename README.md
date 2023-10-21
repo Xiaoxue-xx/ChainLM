@@ -16,7 +16,7 @@ Furthermore, we fine-tune open-source LLMs (i.e., Llama 2-Chat 7B and 13B) with 
 Finally, based on our ChainLM model, we propose a CoT reasoning strategy,step-level debating.
 
 <p align="center">
-  <img src="asset/CoTGenius.png" alt="CoTGenius framework" width="90%" height="90%">
+  <img src="asset/cotgenius.png" alt="CoTGenius framework" width="90%" height="90%">
   <br>
   The Overall Framework of CoTGenius
 </p>
